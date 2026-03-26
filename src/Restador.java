@@ -7,10 +7,10 @@
  *
  * @author hconde
  */
-public class Sumador {
+public class Restador {
 
-public static float sumar (float a, float b ) {
+public static float restar (float a, float b ){
 
-return a + b;
+return a - b;
 
 }}
